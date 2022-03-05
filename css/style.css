@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+.page-content {
+  margin-left: 200px;
+}
+
+body{
+	font-family: 'Lora', serif;
+	font-size: 25px;
+	padding: 30px;
+	font-weight: bold;
+}
+
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+h2 {
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+
+h3 {
+	font-size: 20px;
+	text-align: center;
+}
+
+
+a{
+	text-decoration:none ;
+}
+
+#logo {
+	width: 200px;
+	height: 250px;
+	border-radius: 50%;
+}
+
